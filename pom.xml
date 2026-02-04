@@ -16,12 +16,17 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+
         <selenium.version>4.27.0</selenium.version>
         <testng.version>7.11.0</testng.version>
+
+        <!-- Log4j2 version (secure) -->
+        <log4j2.version>2.22.1</log4j2.version>
     </properties>
 
     <dependencies>
-        <!-- Selenium (includes Selenium Manager) -->
+
+        <!-- Selenium (Selenium Manager included) -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
@@ -35,10 +40,33 @@
             <version>${testng.version}</version>
             <scope>test</scope>
         </dependency>
+
+        <!-- Log4j2 API -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+            <version>${log4j2.version}</version>
+        </dependency>
+
+        <!-- Log4j2 Core -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-core</artifactId>
+            <version>${log4j2.version}</version>
+        </dependency>
+
+        <!-- SLF4J to Log4j2 bridge (recommended) -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-slf4j2-impl</artifactId>
+            <version>${log4j2.version}</version>
+        </dependency>
+
     </dependencies>
 
     <build>
         <plugins>
+
             <!-- Java 17 Compiler -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -60,6 +88,7 @@
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
+
         </plugins>
     </build>
 
