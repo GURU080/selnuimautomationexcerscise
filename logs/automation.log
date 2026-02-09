@@ -48,3 +48,127 @@
 2026-02-04 19:12:50 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@989da1: 1 ms
 2026-02-04 19:12:50 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@441cc260: 10 ms
 2026-02-04 19:12:50 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73a00e09: 0 ms
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 19:17:30 INFO  Utils - [TestNG] Running:
+  C:\Users\hari\AppData\Local\Temp\testng-eclipse--1619623505\testng-customsuite.xml
+
+2026-02-04 19:17:30 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-04 19:17:30 INFO  BaseTest - Launching Chrome browser
+2026-02-04 19:17:32 INFO  BaseTest - Navigating to login page
+2026-02-04 19:17:35 INFO  BaseTest - Starting valid login test
+2026-02-04 19:17:35 INFO  BaseTest - Entering email
+2026-02-04 19:17:35 INFO  BaseTest - Entering password
+2026-02-04 19:17:35 INFO  BaseTest - Clicking login button
+2026-02-04 19:17:39 INFO  BaseTest - Verifying page title after login
+2026-02-04 19:17:39 INFO  BaseTest - Valid login test completed successfully
+2026-02-04 19:17:39 INFO  BaseTest - Closing browser
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3e83c18: 34 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@29fc1a2b: 62 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4d0b0fd4: 1 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@57540fd0: 10 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3eed0f5: 7 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@26dcd8c0: 7 ms
+2026-02-04 19:17:40 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@66e889df: 0 ms
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-02-04 22:38:18 INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-02-04 22:38:18 INFO  Utils - [TestNG] Running:
+  C:\Users\hari\AppData\Local\Temp\testng-eclipse--644558489\testng-customsuite.xml
+
+2026-02-04 22:38:18 INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2026-02-04 22:38:18 INFO  BaseTest - Launching Chrome browser
+2026-02-04 22:38:24 INFO  BaseTest - Navigating to login page
+2026-02-04 22:38:27 INFO  BaseTest - Starting valid login test
+2026-02-04 22:38:27 INFO  BaseTest - Entering email
+2026-02-04 22:38:27 INFO  BaseTest - Entering password
+2026-02-04 22:38:28 INFO  BaseTest - Clicking login button
+2026-02-04 22:38:34 INFO  BaseTest - Verifying page title after login
+2026-02-04 22:38:34 INFO  BaseTest - Valid login test completed successfully
+2026-02-04 22:38:34 INFO  BaseTest - Closing browser
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@71391b3f: 28 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@629f066f: 55 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1542af63: 0 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2032e725: 8 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b22b970: 5 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@748fe51d: 5 ms
+2026-02-04 22:38:35 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@415156bf: 0 ms
+2026-02-04 22:42:18 INFO  Utils - [TestNG] Running:
+  C:\Users\hari\Desktop\Rest api Guru\selenium-automation\testng.xml
+
+2026-02-04 22:42:18 INFO  BaseTest - Launching Chrome browser
+2026-02-04 22:42:21 INFO  BaseTest - Navigating to login page
+2026-02-04 22:42:24 INFO  BaseTest - Starting valid login test
+2026-02-04 22:42:24 INFO  BaseTest - Entering email
+2026-02-04 22:42:25 INFO  BaseTest - Entering password
+2026-02-04 22:42:25 INFO  BaseTest - Clicking login button
+2026-02-04 22:42:30 INFO  BaseTest - Verifying page title after login
+2026-02-04 22:42:31 INFO  BaseTest - Valid login test completed successfully
+2026-02-04 22:42:31 INFO  BaseTest - Closing browser
+2026-02-04 22:46:05 INFO  Utils - [TestNG] Running:
+  C:\Users\hari\Desktop\Rest api Guru\selenium-automation\testng.xml
+
+2026-02-04 22:46:05 INFO  BaseTest - Launching Chrome browser
+2026-02-04 22:46:08 INFO  BaseTest - Navigating to login page
+2026-02-04 22:46:10 INFO  BaseTest - Starting valid login test
+2026-02-04 22:46:10 INFO  BaseTest - Entering email
+2026-02-04 22:46:10 INFO  BaseTest - Entering password
+2026-02-04 22:46:10 INFO  BaseTest - Clicking login button
+2026-02-04 22:46:15 INFO  BaseTest - Verifying page title after login
+2026-02-04 22:46:15 INFO  BaseTest - Valid login test completed successfully
+2026-02-04 22:46:15 INFO  BaseTest - Closing browser
